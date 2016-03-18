@@ -4,17 +4,7 @@
   text-align: justify;
   padding-left: 10px;
 }
-.column p span {
-  font-style: italic;
-  font-weight: bolder;
-  color: red;
-}
-.column p a {
-  font-weight: bolder;
-  color: blue;
-}
-
-img.small-photo {
-  width:100%;
-  float:left;
+img.img-rounded{
+  width: 30%;
+  float: left;
 }

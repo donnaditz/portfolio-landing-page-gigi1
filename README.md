@@ -1,23 +1,18 @@
-# _{Portfolio Landing Page}_
+# _Portfolio Landing Page_
 
-#### _{HTML CSS}
 
-#### By _**{Gigi Ditz}**_
+#### By Gigi Ditz
 
 ## Description
 
-_{Landing page for my web programming portfolio in the Epicodus Introduction course.
-
-* _My name
-* _Projects I have created
-* _Who I am: my hobbies and interests
+Landing page for my web programming portfolio in the Epicodus Introduction course.
 
 
-## Technologies Used
 
-* _HTML
-* _CSS
-*_Bootstrap
+
+* HTML
+* CSS
+*Bootstrap
 
 ### License
 

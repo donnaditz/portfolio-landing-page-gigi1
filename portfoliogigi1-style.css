@@ -4,7 +4,11 @@
   text-align: justify;
   padding-left: 10px;
 }
-img.img-rounded{
-  width: 30%;
-  float: left;
+
+.img {
+  border: 10px solid black;
+  padding: 4px;
+}
+.important {
+  color: red;
 }

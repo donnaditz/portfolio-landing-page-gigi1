@@ -9,7 +9,7 @@
 _{Landing page for my web programming portfolio in the Epicodus Introduction course.
 
 * _My name
-* _Projects I have created_
+* _Projects I have created
 * _Who I am: my hobbies and interests
 
 
@@ -17,6 +17,7 @@ _{Landing page for my web programming portfolio in the Epicodus Introduction cou
 
 * _HTML
 * _CSS
+*_Bootstrap
 
 ### License
 

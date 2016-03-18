@@ -6,6 +6,7 @@
 ## Description
 
 Landing page for my web programming portfolio in the Epicodus Introduction course.
+*I  was not able to create the gh-pages branch page*
 
 
 
